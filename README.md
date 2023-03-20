@@ -1,9 +1,5 @@
 ## Hi! My name is Carlos 
 
-- 🌱 I’m currently learning python 
-- 📫 How to reach me: carloseduardoleite055@gmail.com
-- 😄 Pronouns: he/his
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themestrre&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
